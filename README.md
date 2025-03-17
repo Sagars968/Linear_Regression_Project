@@ -2,7 +2,7 @@
 This project demonstrates a simple Linear Regression model using Python and Scikit-learn.
 
 ## Dataset
-- The dataset used is the **Iris dataset**.
+- The dataset used in this project is stored in "Iris-checkpoint.csv"
 - Features: `Sepal Length` (X), `Sepal Width` (Y).
 
 ## Steps
